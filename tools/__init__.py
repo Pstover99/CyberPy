@@ -1,14 +1,4 @@
-"""
-Name: Parker Stover
-Class: ITP 270
-Date: 04 MAY 2026
-
-tools/__init__.py
------------------
-The `tools` package bundles every module the Cybersecurity Toolkit
-launcher needs. Importing this package gives the launcher access to
-each tool's `run()` entry point under a single namespace.
-"""
+"""tools/__init__.py — Parker Stover, ITP 270, 04 MAY 2026"""
 
 from . import (
     common,
@@ -17,6 +7,16 @@ from . import (
     vuln_scanner,
     exif_extractor,
     web_identifier,
+    dns_lookup,
+    ssl_inspector,
+    hash_checker,
+    hash_cracker,
+    cipher_tool,
+    encoder_decoder,
+    header_checker,
+    dir_enumerator,
+    cred_scanner,
+    vuln_probe,
 )
 
 __all__ = [
@@ -26,4 +26,14 @@ __all__ = [
     "vuln_scanner",
     "exif_extractor",
     "web_identifier",
+    "dns_lookup",
+    "ssl_inspector",
+    "hash_checker",
+    "hash_cracker",
+    "cipher_tool",
+    "encoder_decoder",
+    "header_checker",
+    "dir_enumerator",
+    "cred_scanner",
+    "vuln_probe",
 ]
