@@ -223,7 +223,7 @@ No contribution is too small — even a typo fix helps.
 
 Email: parkerstover240@outlook.com
 
-[GitHub: Pstover99](https://github.com/Pstover99)
+[GitHub: Pstover99]
 
 ---
 
