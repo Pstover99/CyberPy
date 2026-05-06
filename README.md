@@ -221,7 +221,7 @@ No contribution is too small — even a typo fix helps.
 
 **Parker Stover**  
 
-Email: parkerstover243@gmail.com
+Email: parkerstover240@outlook.com
 
 [GitHub: Pstover99](https://github.com/Pstover99)
 
