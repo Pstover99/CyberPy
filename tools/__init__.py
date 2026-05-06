@@ -1,4 +1,4 @@
-"""tools/__init__.py — Parker Stover, ITP 270, 04 MAY 2026"""
+"""tools/__init__.py"""
 
 from . import (
     common,

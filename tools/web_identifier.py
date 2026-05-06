@@ -1,7 +1,6 @@
 """
 Name: Parker Stover
-Class: ITP 270
-Date: 28 APR 2026
+
 Project Name: tools/web_identifier.py
 -----------------------
 Identify the technologies a website is built on by combining HTTP

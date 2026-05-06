@@ -1,7 +1,5 @@
 """
 Name:  Parker Stover
-Class: ITP 270
-Date:  04 MAY 2026
 
 tools/cipher_tool.py
 --------------------

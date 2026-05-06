@@ -1,7 +1,6 @@
 """
 Name: Parker Stover
-Class: ITP 270
-Date: 15 APR 2026
+
 Project name: tools/port_scanner.py
 ---------------------
 Threaded TCP port scanner that tests the COMMON_PORTS list against a

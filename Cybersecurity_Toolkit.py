@@ -1,7 +1,6 @@
 """
 Name:    Parker Stover
-Class:   ITP 270
-Date:    04 MAY 2026
+
 Program: Cybersecurity_Toolkit.py
 
 Final project launcher. Every tool lives in the local `tools/` package

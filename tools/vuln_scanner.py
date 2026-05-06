@@ -1,7 +1,6 @@
 """
 Name: Parker Stover
-Class: ITP 270
-Date: 09 APR 2026
+
 tools/vuln_scanner.py
 ---------------------
 Search the NIST National Vulnerability Database (NVD) for CVEs that

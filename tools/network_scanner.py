@@ -1,7 +1,6 @@
 """
 Name: Parker Stover
-Class: ITP 270
-Date: 25 MAR 2026
+
 Project name: tools/network_scanner.py
 ------------------------
 Discover live hosts on a network using a threaded ICMP sweep, then look

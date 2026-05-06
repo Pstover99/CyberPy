@@ -1,7 +1,6 @@
 """
 Name: Parker Stover
-Class: ITP 270
-Date: 15 APR 2026
+
 Project Name: tools/exif_extractor.py
 -----------------------
 Walk the project's `images/` folder, pull EXIF metadata out of each
