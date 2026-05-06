@@ -1,4 +1,4 @@
-# CyberPy 🛡️
+# CyberPy ⚔️
 
 A versatile, menu-driven cybersecurity toolkit written entirely in Python. Covers the full workflow from network reconnaissance through cryptography, encoding, and authorized offensive testing — all from a single interactive launcher with no external GUI required.
 
