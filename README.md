@@ -1,4 +1,4 @@
-# PyReconLab 🛡️
+# CyberPy 🛡️
 
 A versatile, menu-driven cybersecurity toolkit written entirely in Python. Covers the full workflow from network reconnaissance through cryptography, encoding, and authorized offensive testing — all from a single interactive launcher with no external GUI required.
 
@@ -80,8 +80,8 @@ PyReconLab/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Pstover99/PyReconLab.git
-cd PyReconLab
+git clone https://github.com/Pstover99/CyberPy.git
+cd CyberPy
 ```
 
 Or download the ZIP from GitHub (Code → Download ZIP) and extract it.
@@ -220,7 +220,9 @@ No contribution is too small — even a typo fix helps.
 ## Author
 
 **Parker Stover**  
-ITP 270 — Cybersecurity  
+
+Email: parkerstover243@gmail.com
+
 [GitHub: Pstover99](https://github.com/Pstover99)
 
 ---
