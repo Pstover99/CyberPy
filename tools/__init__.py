@@ -17,6 +17,10 @@ from . import (
     dir_enumerator,
     cred_scanner,
     vuln_probe,
+    whois_geo,
+    subnet_calc,
+    honeypot,
+    entropy_analyzer,
 )
 
 __all__ = [
@@ -36,4 +40,8 @@ __all__ = [
     "dir_enumerator",
     "cred_scanner",
     "vuln_probe",
+    "whois_geo",
+    "subnet_calc",
+    "honeypot",
+    "entropy_analyzer",
 ]
